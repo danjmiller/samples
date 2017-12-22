@@ -1,0 +1,8 @@
+# Source: https://github.com/planetjekyll/quickrefs/blob/master/YAML.md#hash-dictionary-of-keyvalue-records
+henry:
+  name:    Dr Henry Jekyll
+  twitter: henryjekyll
+
+edward:
+  name:    Edward Hyde
+  twitter: edhyde
